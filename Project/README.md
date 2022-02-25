@@ -23,7 +23,7 @@
 In order make the life easy for differently-abled people Facilities such as maintaining ambient temperature and light are provided by automating tasks that they may find it 
 difficult.Controlling of lights and fans is automated here so that differently-abled people can live comfortably.  
 
-#2.Requirements
+# 2. Requirements
 
 | ID |High Level Requirements|
 |----|-----------------------|
