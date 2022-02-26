@@ -48,6 +48,24 @@ In order make the life easy for differently-abled people Facilities such as main
 
 ![embeddedblockdiag](https://user-images.githubusercontent.com/99065925/155836092-5eb77493-d2f1-480c-a6e9-230c027b2999.PNG)
 
+# 4.Component Description
+
+## 4.1 Microcontroller
+Microcontroller-Microcontroller used here is Atmega328.It is a 8 bit microcontroller with 28 pin and RISC Architecture.
+It takes the Input from the Sensors and performs computation and drives the output.
+
+## 4.2 Actuators
+* DC Motor- Here the DC Motor is used in fan 
+* Motor Driver - Since the Microcontroller cannot drive the motor a motor driver is used
+
+## 4.3 Sensors
+
+* Temperature Sensor- Thermistor is a type of resistor whose resistance is dependent on temperature
+
+
+* Light Sensor-LDR(Light dependent resistor)is a passive component that decreases resistance with respect to receiving light
+ on the component's sensitive surface.
+
 
 
 
