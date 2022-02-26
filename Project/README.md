@@ -24,6 +24,7 @@ In order make the life easy for differently-abled people Facilities such as main
 
 # 2. Requirements
 
+
 | ID |High Level Requirements|
 |----|-----------------------|
 |HLR1|switch on lights when it gets dark|
@@ -32,6 +33,7 @@ In order make the life easy for differently-abled people Facilities such as main
 |HLR4|sensed temperature is 25 to 27 degree Ceiling fan shall be on and wall fan-1 ,wallfan-2 shall be off|
 |HLR5|sensed temperature is 27 to 29 degree wall fan-1,wallfan-2 shall be on and Ceiling fan shall be off|
 |HLR6|sensed temperature is 29 degree and above all the fans i.e Ceiling fan,wall fan-1,wall fan-2 shall be on|
+
 
 | LLR ID |HLR ID| Low Level Requirements |
 |--------|------|------------------------|
@@ -42,6 +44,7 @@ In order make the life easy for differently-abled people Facilities such as main
 |LLR5    |HLR3  |Thermistor is used to sense the temperature according to condition the motors wall fan-1,wallfan-2 shall be on and Ceiling fan shall be off|
 |LLR6    |HLR3  |Thermistor is used to sense the temperature according to condition the motors  Ceiling fan,wall fan-1,wall fan-2 shall be on |
 
+# 3.Block Diagram
 
 
 
