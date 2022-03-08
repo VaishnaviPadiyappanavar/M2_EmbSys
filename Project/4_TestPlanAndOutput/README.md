@@ -2,10 +2,10 @@
 |Test Id|Description|Expected input|Expected output|Actual output|pass/fail|
 |-------|-----------|--------------|---------------|-------------|---------|
 |H1 |Detect light or dark|User input as LDR |Detectchange|Detectchange|pass|
-|H2 |Detect light or dark|User input as LDR |Detectchange|Detectchange|pass|
-|H3 |Detect light or dark|User input as LDR |Detectchange|Detectchange|pass|
-|H4 |Detect light or dark|User input as LDR |Detectchange|Detectchange|pass|
-|H5 |Detect light or dark|User input as LDR |Detectchange|Detectchange|pass|
+|H2 |Detect temperature less than 23|User input as change in value of potentiometer|Detectchange|Detectchange|pass|
+|H3 |Detect temperature between 25 to 27 |User input as change in value of potentiometer|Detectchange|Detectchange|pass|
+|H4 |Detect temperature between 27 to 29|User input as change in value of potentiometer |Detectchange|Detectchange|pass|
+|H5 |Detect temperature greater then 29|User input as change in value of potentiometer |Detectchange|Detectchange|pass|
 
 
-
+ 
