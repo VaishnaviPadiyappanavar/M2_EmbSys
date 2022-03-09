@@ -28,6 +28,10 @@
 |Test Id|Description|Expected input|Expected output|Actual output|pass/fail|
 |-------|-----------|--------------|---------------|-------------|---------|
 |L5|temperature more than 29(value more than 768)|User input|Ceiling fan on, wall fan1 on, wall fan2 on|Ceiling fan on, wall fan1 on, wall fan2 on|pass|
+# Requirement 1
+For temperature less than 23 all fans are off
+![Requirement1](https://user-images.githubusercontent.com/99065925/157365133-38f21f9b-7de8-40cf-934a-3f13dc9edc8d.PNG)
+
 
 # Requirement 5
 For temperature greater than 29 all fan on and light on
