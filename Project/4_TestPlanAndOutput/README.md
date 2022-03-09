@@ -29,10 +29,13 @@
 |-------|-----------|--------------|---------------|-------------|---------|
 |L5|temperature more than 29(value more than 768)|User input|Ceiling fan on, wall fan1 on, wall fan2 on|Ceiling fan on, wall fan1 on, wall fan2 on|pass|
 
+# Requirement 5
+For temperature greater than 29 all fan on and light on
+
+![all on](https://user-images.githubusercontent.com/99065925/157364813-ca200622-7ce7-4e4e-a0c1-f0e88ffc4529.PNG)
 
 
 
-![circuitdiagram](https://user-images.githubusercontent.com/99065925/157364189-463ab232-9a5d-4685-9de2-23e56e457dd4.PNG)
 
 
 
